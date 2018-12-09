@@ -16,7 +16,7 @@
 <Folder><name>limite_mun_bacia</name>
   <Placemark>
 	<name>Capela de Santana</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Capela de Santana</SimpleData>
@@ -33,7 +33,7 @@
   </Placemark>
   <Placemark>
 	<name>Ivoti</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Ivoti</SimpleData>
@@ -50,7 +50,7 @@
   </Placemark>
   <Placemark>
 	<name>Dois Irmãos</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Dois Irmãos</SimpleData>
@@ -67,7 +67,7 @@
   </Placemark>
   <Placemark>
 	<name>Cachoeirinha</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Cachoeirinha</SimpleData>
@@ -84,7 +84,7 @@
   </Placemark>
   <Placemark>
 	<name>São Sebastião do Caí</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">São Sebastião do Caí</SimpleData>
@@ -101,7 +101,7 @@
   </Placemark>
   <Placemark>
 	<name>Riozinho</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Riozinho</SimpleData>
@@ -118,7 +118,7 @@
   </Placemark>
   <Placemark>
 	<name>Caraá</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Caraá</SimpleData>
@@ -135,7 +135,7 @@
   </Placemark>
   <Placemark>
 	<name>Rolante</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Rolante</SimpleData>
@@ -152,7 +152,7 @@
   </Placemark>
   <Placemark>
 	<name>Santo Antônio da Patrulha</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Santo Antônio da Patrulha</SimpleData>
@@ -169,7 +169,7 @@
   </Placemark>
   <Placemark>
 	<name>Canela</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Canela</SimpleData>
@@ -186,7 +186,7 @@
   </Placemark>
   <Placemark>
 	<name>São Francisco de Paula</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">São Francisco de Paula</SimpleData>
@@ -203,7 +203,7 @@
   </Placemark>
   <Placemark>
 	<name>Três Coroas</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Três Coroas</SimpleData>
@@ -220,7 +220,7 @@
   </Placemark>
   <Placemark>
 	<name>Parobé</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Parobé</SimpleData>
@@ -237,7 +237,7 @@
   </Placemark>
   <Placemark>
 	<name>Taquara</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Taquara</SimpleData>
@@ -254,7 +254,7 @@
   </Placemark>
   <Placemark>
 	<name>Glorinha</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Glorinha</SimpleData>
@@ -271,7 +271,7 @@
   </Placemark>
   <Placemark>
 	<name>Campo Bom</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Campo Bom</SimpleData>
@@ -288,7 +288,7 @@
   </Placemark>
   <Placemark>
 	<name>São Leopoldo</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">São Leopoldo</SimpleData>
@@ -305,7 +305,7 @@
   </Placemark>
   <Placemark>
 	<name>Novo Hamburgo</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Novo Hamburgo</SimpleData>
@@ -322,7 +322,7 @@
   </Placemark>
   <Placemark>
 	<name>Portão</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Portão</SimpleData>
@@ -339,7 +339,7 @@
   </Placemark>
   <Placemark>
 	<name>Canoas</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Canoas</SimpleData>
@@ -356,7 +356,7 @@
   </Placemark>
   <Placemark>
 	<name>Gravataí</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Gravataí</SimpleData>
@@ -373,7 +373,7 @@
   </Placemark>
   <Placemark>
 	<name>Santa Maria do Herval</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Santa Maria do Herval</SimpleData>
@@ -390,7 +390,7 @@
   </Placemark>
   <Placemark>
 	<name>Nova Hartz</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Nova Hartz</SimpleData>
@@ -407,7 +407,7 @@
   </Placemark>
   <Placemark>
 	<name>Osório</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Osório</SimpleData>
@@ -424,7 +424,7 @@
   </Placemark>
   <Placemark>
 	<name>Igrejinha</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Igrejinha</SimpleData>
@@ -441,7 +441,7 @@
   </Placemark>
   <Placemark>
 	<name>Gramado</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Gramado</SimpleData>
@@ -458,7 +458,7 @@
   </Placemark>
   <Placemark>
 	<name>Araricá</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Araricá</SimpleData>
@@ -475,7 +475,7 @@
   </Placemark>
   <Placemark>
 	<name>Sapiranga</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Sapiranga</SimpleData>
@@ -492,7 +492,7 @@
   </Placemark>
   <Placemark>
 	<name>Nova Santa Rita</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Nova Santa Rita</SimpleData>
@@ -509,7 +509,7 @@
   </Placemark>
   <Placemark>
 	<name>Esteio</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Esteio</SimpleData>
@@ -526,7 +526,7 @@
   </Placemark>
   <Placemark>
 	<name>Sapucaia do Sul</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Sapucaia do Sul</SimpleData>
@@ -543,7 +543,7 @@
   </Placemark>
   <Placemark>
 	<name>Estância Velha</name>
-	<Style><LineStyle><color>rgb(63,72,204)</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#2261e5</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#limite_mun_bacia">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="MUNICíPIO">Estância Velha</SimpleData>
